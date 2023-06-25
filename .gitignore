@@ -1,0 +1,8 @@
+# Database #
+###################
+*.csv
+# Personal Notes #
+*.txt
+# images and tables #
+*.xlxx
+*.png
